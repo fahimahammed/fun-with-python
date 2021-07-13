@@ -1,5 +1,4 @@
 from turtle import *
-import turtle
 import time
 
 color("red")
